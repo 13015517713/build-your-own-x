@@ -1,3 +1,7 @@
+## 这个fork于2020/10/29
+## 这个项目中包含了很多写项目的指导教程，比如游戏的demo和源码，涉及很多领域，有兴趣了再看
+
+
 **[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
 
 # ![Build your own X](feynman.png)
